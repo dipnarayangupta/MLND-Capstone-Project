@@ -1,4 +1,4 @@
-##NewYork Taxi Fare Prediction
+##NewYork Taxi Fare Prediction##
 
 #Link to Capstone Project
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/
